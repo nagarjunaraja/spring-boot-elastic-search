@@ -1,0 +1,5 @@
+com\nagarjuna\spring\elasticsearch\controller\BookController.class
+com\nagarjuna\spring\elasticsearch\Elastic6Application.class
+com\nagarjuna\spring\elasticsearch\bean\Book.class
+com\nagarjuna\spring\elasticsearch\config\ElasticSearchConfiguration.class
+com\nagarjuna\spring\elasticsearch\dao\BookDao.class
